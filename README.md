@@ -1,0 +1,2 @@
+# SayItRightMVC
+MVC pattern - codeigniter
